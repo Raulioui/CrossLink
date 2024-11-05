@@ -1,4 +1,15 @@
-No-Oracle lending and borrowing protocol integrated with Chainlink CCIP
+# No-Oracle Borrowing & Lending Protocol
+
+No-Oracle Borrowing and Lending Protocol, a decentralized finance (DeFi) platform that leverages Chainlink CCIP for cross-chain interoperability and removes reliance on oracles for loan evaluation. This protocol enables users to participate in Dutch auctions for loans, optimize pool weight management through gauges, and interact via a user-specific smart contract for streamlined CCIP token transfers.
+
+## Features
+
+- **No-Oracle Lending/Borrowing:** Enjoy a streamlined lending and borrowing experience without relying on external oracles for asset valuation.
+- **Chainlink CCIP Integration:** Cross-chain operability is powered by Chainlink’s CCIP, allowing users to manage and transfer assets across networks seamlessly.
+- **Dutch Auctions for Loans:** A competitive lending market with Dutch auctions that automatically adjusts loan interest rates, making loan acquisition transparent and fair.
+- **Gauge System for Pool Management:** Dynamic gauges enable users to participate in pool governance by influencing liquidity distribution through weight management.
+- **User Contracts for CCIP Token Management:** Each user is provided a dedicated contract to manage CCIP token transfers autonomously.
+
 
 ## Chainlink CCIP Starter Kit
 
