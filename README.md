@@ -1,3 +1,5 @@
+No-Oracle lending and borrowing protocol integrated with Chainlink CCIP
+
 ## Chainlink CCIP Starter Kit
 
 > **Note**
