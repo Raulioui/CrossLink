@@ -10,7 +10,6 @@ No-Oracle Borrowing and Lending Protocol, a decentralized finance (DeFi) platfor
 - **Gauge System for Pool Management:** Dynamic gauges enable users to participate in pool governance by influencing liquidity distribution through weight management.
 - **User Contracts for CCIP Token Management:** Each user is provided a dedicated contract to manage CCIP token transfers autonomously.
 
-
 ## Chainlink CCIP Starter Kit
 
 > **Note**
